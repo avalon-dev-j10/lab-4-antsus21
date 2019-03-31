@@ -48,4 +48,8 @@ public class Persons implements Person{
         else {return 0;}
     }
     
+    /*  TODO (Замечания№1 ЛР№4)
+        - Все else в методе comparTo можно удалить, потому что если условие if выполниться
+        то дальнейшее выполнение метода прекратиться!
+    */
 }
